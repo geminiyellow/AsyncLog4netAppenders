@@ -1,0 +1,6 @@
+*.suo
+/src/AsynchronousLog4NetAppenders/bin
+/src/AsynchronousLog4NetAppenders/obj
+/src/AsynchronousLog4NetAppenders.Tests/bin
+/src/AsynchronousLog4NetAppenders.Tests/obj
+*.user
